@@ -315,10 +315,10 @@
     margin-bottom: 3vw;
     display: flex;
     justify-content: space-between;
+  }
 
-    &:last-child {
-      margin-bottom: unset;
-    }
+  .row:last-child {
+    margin-bottom: unset;
   }
 
   .col {
